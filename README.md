@@ -8,7 +8,7 @@ Implementar o sistema representado pelo diagrama UML abaixo usando Java, podendo
 Obs: a fim de aprimorar minhas habilidades como programador, solicitei ao professor que eu fizesse o trabalho de forma individual utilizando a biblioteca JPlay, que encontrei nas minhas pesquisas.
 
 ### Diagrama UML
-![Diagrama UML do sistema](http://url/to/img.png)
+![Diagrama UML do sistema](https://github.com/Pablo87996/Zoo_Game/blob/194099e6bf48c9ab90b557ccfc9d15447bc1aea9/Diagrama%20UML.png)
 
 ## 📋 Requisitos do trabalho
 
