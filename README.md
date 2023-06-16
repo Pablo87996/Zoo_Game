@@ -3,9 +3,9 @@
 Projeto desenvolvido para disciplina de LP II como trabalho avaliativo da unidade.
 
 ## 🚀 Objetivo
-Implementar o sistema representado pelo diagrama UML abaixo usando Java, podendo ser usado a interface swing ou de componentes, que vimos em sala de aula.
+Implementar o sistema representado pelo diagrama UML abaixo usando Java, podendo ser usado a interface swing ou de componentes, vistas em sala de aula.
 
-Obs: a fim de aprimorar minhas habilidades como programador, solicitei ao professor que eu fizesse o trabalho de forma individual utilizando a biblioteca JPlay, que encontrei nas minhas pesquisas.
+Obs: a fim de aprimorar minhas habilidades como programador, solicitei ao professor que eu fizesse o trabalho de forma individual utilizando o framework JPlay, que encontrei nas minhas pesquisas.
 
 ### Diagrama UML
 ![Diagrama UML do sistema](https://github.com/Pablo87996/Zoo_Game/blob/194099e6bf48c9ab90b557ccfc9d15447bc1aea9/Diagrama%20UML.png)
@@ -13,7 +13,7 @@ Obs: a fim de aprimorar minhas habilidades como programador, solicitei ao profes
 ## 📋 Requisitos do trabalho
 
 * Deve ser implementado tudo que foi aprendido em orientação a objetos: classes abstratas, herança e sucessivamente;
-* O método sendSound deve ser implementado nas jaulas de forma polimórfica, conforme vimos em aula ou de forma melhorada, ficando a critério da equipe;
+* O método sendSound deve ser implementado nas jaulas de forma polimórfica, conforme visto em aula ou de forma melhorada, ficando a critério da equipe;
 * Os demais atributos e métodos devem ser criados pelos desenvolvedores;
 * Se o atributo currentCalories chegar em 0 o pet morre;
 * O pet sente fome;
@@ -59,7 +59,7 @@ Este projeto está sob a licença MIT - veja o arquivo [LICENSE.md](https://gith
 
 ## ❗ Aviso
 
-Alguns links de materiais que eu utilizei nesse projeto foram perdidos. Caso eu tenha usado algum material seu, por favor, entre em contato comigo pelo [email](mailto:spacesprojects01@gmail.com) ou pelo meu [Instagram](https://www.instagram.com/space_01_official/).
+Alguns links de materiais que eu utilizei nesse projeto foram perdidos. Caso eu tenha usado algum material seu, por favor, entre em contato comigo pelo [email](mailto:spacesprojects01@gmail.com) ou pelo [Instagram](https://www.instagram.com/space_01_official/).
 
 ---
 ⌨️ com ❤️ por [Pablo87996](https://github.com/Pablo87996) 😊
