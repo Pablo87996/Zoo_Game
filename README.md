@@ -43,7 +43,7 @@ Este projeto está sob a licença MIT - veja o arquivo [LICENSE.md](https://gith
 
 ## ✨ Agradecimentos
 
-* Agradeço ao meu professor Matheus Brito, que orientou esse projeto;
+* Agradeço ao meu professor [Matheus Brito](https://github.com/matheus-brito-dev), que orientou esse projeto;
 * Ao [Armstrong Lohãns](https://github.com/lohhans), por ter disponibilizado o presente modelo do README.md;
 * E a todos que disponibilizaram os sprites para o desenvolvimento do jogo.
 
@@ -59,7 +59,7 @@ Este projeto está sob a licença MIT - veja o arquivo [LICENSE.md](https://gith
 
 ## ❗ Aviso
 
-Alguns links de materiais que eu utilizei nesse projeto foram perdidos. Caso eu tenha usado algum material seu, por favor, entre em contato comigo pelo [email](mailto:spacesprojects01@gmail.com) ou pelo [Instagram](https://www.instagram.com/space_01_official/).
+Alguns links de materiais que eu utilizei nesse projeto foram perdidos. Caso eu tenha usado algum material seu, por favor, entre em contato comigo pelo [email](mailto:spaceprojects01@gmail.com) ou pelo [Instagram](https://www.instagram.com/space_01_official/).
 
 ---
 ⌨️ com ❤️ por [Pablo87996](https://github.com/Pablo87996) 😊
