@@ -37,8 +37,9 @@ Este projeto está sob a licença MIT - veja o arquivo [LICENSE.md](https://gith
 
 ## 🎁 Expressões de gratidão
 
+* Adicione o repositório aos seus favoritos ⭐;
 * Conte a outras pessoas sobre este projeto 📢;
-* Mande sugestões para nós 💡;
+* Mande sugestões para mim 💡;
 * Siga-me no [Instagram](https://www.instagram.com/space_01_official/) 📷.
 
 ## ✨ Agradecimentos
