@@ -2,6 +2,8 @@
 
 Projeto desenvolvido para disciplina de LP II como trabalho avaliativo da unidade.
 
+![Imagem do Jogo](https://github.com/Pablo87996/Zoo_Game/blob/e4e32374d018dc70e5767ff2a3616fad09048374/Imagem%20do%20Jogo.png)
+
 ## 🚀 Objetivo
 Implementar o sistema representado pelo diagrama UML abaixo usando Java, podendo ser usado a interface swing ou de componentes, vistas em sala de aula.
 
