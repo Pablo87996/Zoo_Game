@@ -85,7 +85,7 @@ public class Inventory extends Sprite{
     }
 
     public void dropItem(Mouse mouse){
-        if(this.slots.get(selectedSlot).getItem().getClass().getPackageName() == "game.Foods"){
+        if(this.slots.get(selectedSlot).getItem().getClass().getPackage().getName().equals("game.Foods")){
             Food food = (Food) this.slots.get(selectedSlot).getItem();
 
             if(mouse.isOverArea(75, 84, 257, 193)){
