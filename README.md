@@ -46,7 +46,7 @@ O projeto já conta com as configurações adequadas para rodar no Eclipse. Caso
 * [JPlay](http://www2.ic.uff.br/jplay/index.html) - Framework para criação de jogos 2D
 
 ## 📌 Versão
-Nós usamos [SemVer](https://semver.org/) para controle de versão. Para as versões disponíveis, observe as [tags neste repositório](https://github.com/Pablo87996/Zoo_Game/tags).
+O Zoo Game utiliza o [SemVer](https://semver.org/) para controle de versão. Para as versões disponíveis, observe as [tags neste repositório](https://github.com/Pablo87996/Zoo_Game/tags).
 
 ## ✒️ Autor
 
